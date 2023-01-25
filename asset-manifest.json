@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/passman/static/css/main.d1b5d7b2.css",
+    "main.js": "/passman/static/js/main.af4c0c14.js",
+    "index.html": "/passman/index.html",
+    "main.d1b5d7b2.css.map": "/passman/static/css/main.d1b5d7b2.css.map",
+    "main.af4c0c14.js.map": "/passman/static/js/main.af4c0c14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b5d7b2.css",
+    "static/js/main.af4c0c14.js"
+  ]
+}
