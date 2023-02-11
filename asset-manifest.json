@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/passman/static/css/main.309ee8b4.css",
-    "main.js": "/passman/static/js/main.7b44648b.js",
+    "main.js": "/passman/static/js/main.d37e401a.js",
     "index.html": "/passman/index.html",
     "main.309ee8b4.css.map": "/passman/static/css/main.309ee8b4.css.map",
-    "main.7b44648b.js.map": "/passman/static/js/main.7b44648b.js.map"
+    "main.d37e401a.js.map": "/passman/static/js/main.d37e401a.js.map"
   },
   "entrypoints": [
     "static/css/main.309ee8b4.css",
-    "static/js/main.7b44648b.js"
+    "static/js/main.d37e401a.js"
   ]
 }
